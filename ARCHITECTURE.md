@@ -14,18 +14,18 @@ atc-aurora-agents/
 ├── CHANGELOG.md
 ├── FILE_REGISTER.md
 └── src/
-    ├── knowledge_agent.atc             Knowledge agent — ingest, query, nodes, conflicts
-    ├── architect_agent.atc             Architect agent — analyze, dependencies, violations
-    ├── coding_agent.atc                Coding agent — generate, migrate, review, fix
-    ├── research_agent.atc              Research agent — search, summarize, compare, recommend
-    ├── security_agent.atc              Security agent — audit, crypto, threats, compliance
-    ├── qa_agent.atc                    QA agent — test, coverage, regression, report
-    ├── documentation_agent.atc         Documentation agent — wiki, changelog, standards
-    ├── repository_agent.atc            Repository agent — sync, branch, merge, tag
-    ├── standards_agent.atc             Standards agent — ATC-01..99, compliance, review
-    ├── roadmap_agent.atc               Roadmap agent — sprints, milestones, tracking
-    ├── product_agent.atc               Product agent — features, backlog, priorities
-    ├── governance_agent.atc            Governance agent — proposals, voting, treasury
+    ├── knowledge_agent.atc    0 lines    Knowledge Agent
+    ├── architect_agent.atc    0 lines    Architect Agent
+    ├── coding_agent.atc    0 lines    Coding Agent
+    ├── research_agent.atc    0 lines    Research Agent
+    ├── security_agent.atc    0 lines    Security Agent
+    ├── qa_agent.atc    0 lines    QA Agent
+    ├── documentation_agent.atc    0 lines    Documentation Agent
+    ├── repository_agent.atc    0 lines    Repository Agent
+    ├── standards_agent.atc    0 lines    Standards Agent
+    ├── roadmap_agent.atc    0 lines    Roadmap Agent
+    ├── product_agent.atc    0 lines    Product Agent
+    └── governance_agent.atc    0 lines    Governance Agent
 ```
 
 ## Statistik
@@ -33,7 +33,7 @@ atc-aurora-agents/
 | Metrik | Wert |
 |--------|------|
 | .atc Dateien | 12 |
-| Layer | L6 — AI Layer |
+| .atc Zeilen | 0 |
 | ATC-Standard | ATC-97 |
 | Sprint | 3.2 |
 | Status | 📋 GEPLANT |
