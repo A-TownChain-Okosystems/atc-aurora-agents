@@ -25,4 +25,4 @@
 | src/governance_agent.atc | ATCLang | 0 | 📋 |
 
 ---
-*Auto-generiert 2026-08-08 · Aurora (MasterBrain · Base44)*
+*Auto-generiert 2026-08-08 · Aurora*
